@@ -1,6 +1,6 @@
 pipeline
 {
-	node 'aws'
+	agent 'aws'
 
 	stages
 	{
